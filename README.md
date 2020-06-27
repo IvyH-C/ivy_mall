@@ -1,6 +1,5 @@
 # ivy_mall
-个人能力展示项目
-
+ivy_mall商城系统
 
 ## 项目介绍
 
@@ -9,18 +8,16 @@
 
 
 ## 需求收集
-
-![](C:\Users\ivyhu\Desktop\需求收集.png)
-
+![需求收集.png](https://i.loli.net/2020/06/27/JHjWlmpetva3LMV.png)
 
 
 ## 系统概述
 
-![](C:\Users\ivyhu\Desktop\系统概述.png)
+![系统概述.png](https://i.loli.net/2020/06/27/e92YrLqRT71dNJW.png)
 
 ## 数据建模
 
-![](C:\Users\ivyhu\Desktop\数据建模.png)
+![数据建模.png](https://i.loli.net/2020/06/27/AJPWajsRL6G2vzr.png)
 
 
 
