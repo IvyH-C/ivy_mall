@@ -51,7 +51,9 @@ ivy_mall商城系统
 | Lombok               | 简化对象封装工具    | https://github.com/rzwitserloot/lombok         |
 | MySQL                | 数据库              |                                                |
 
+## 接口文档地址
 
+https://www.showdoc.cc/889964849168937?page_id=0
 
 ## 数据字典
 
@@ -295,6 +297,4 @@ ivy_mall商城系统
 
 
 
-## 接口文档地址
 
-https://www.showdoc.cc/889964849168937?page_id=0
