@@ -32,7 +32,7 @@ ivy_mall商城系统
 | PageHelper           | MyBatis物理分页插件 | http://git.oschina.net/free/Mybatis_PageHelper |
 | Hibernator-Validator | 验证框架            | http://hibernate.org/validator                 |
 | Redis                | 缓存框架            | https://redis.io/                              |
-| Apache Shiro + JWT   | 安全框架            | http://shiro.apache.org/                       |
+| JWT                  | 安全框架            | http://shiro.apache.org/                       |
 | Maven                | 项目构建管理        | http://maven.apache.org/                       |
 | Log4J                | 日志组件            | http://logging.apache.org/log4j/1.2/           |
 | Druid                | 数据库连接池        | https://github.com/alibaba/druid               |
